@@ -15,6 +15,6 @@ What I can reveal through data analysis is top Data Science tag types and tag us
 
 **At the end of this report**, I will list the current top 10 Data Science questions (across all Tag types) as of May 25 2021 by extracting them from the appropriate data site. I will provide a link to where I obtained the information.
 
-[Click here to see the pdf file](Popular+Data+Science+Questions.pdf)
+[Click here to see the pdf file](Popular+Data+Science+Questions.pdf) (this can be downloaded)
 
 
